@@ -1,0 +1,6 @@
+.board-game {
+    width: 320px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px
+}
