@@ -1,9 +1,9 @@
 import "./style.css";
 
-function cardGame () {
+function cardGame (icon = "alura-pixel",alt ="logo da Alura Cursos") {
     return `
     <article class="card-game">
-        <img src="images/alura-pixel.png" alt="logo da Alura Cursos">
+        <img src=images/${icon}.png alt=${alt}>
     </article>
     `;
 }
