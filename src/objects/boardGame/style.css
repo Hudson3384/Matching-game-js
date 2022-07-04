@@ -1,6 +1,6 @@
 .board-game {
-    width: 320px;
     display: flex;
     flex-wrap: wrap;
-    gap: 20px
+    gap: 20px;
+    justify-content: space-evenly;
 }

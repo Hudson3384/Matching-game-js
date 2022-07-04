@@ -1,4 +1,4 @@
-import cardGame from "../components/cardGame";
+import cardGame from '../../components/cardGame';
 import './style.css';
 
 function boardGame(amount){
@@ -6,9 +6,8 @@ function boardGame(amount){
     return `
     <section class ="board-game">
         ${$htmlContent}
-    </section>
-       
-    ` 
+    </section>   
+    `
 }
 
 export default boardGame;
