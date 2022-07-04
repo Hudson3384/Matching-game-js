@@ -4,7 +4,7 @@ function cardFrontBack () {
     return `
         <article>
             ${cardGame()}
-            ${cardGame()}
+            ${cardGame('javascript', 'logo do javascript')}
         </article>
     `
 }
