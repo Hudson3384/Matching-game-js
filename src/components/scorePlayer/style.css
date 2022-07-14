@@ -1,0 +1,13 @@
+.score-Player {
+    display: flex;
+    border: 2px solid var(--coolor-feiry-rose);
+}
+
+.score-Point {
+    
+    width: 14px;
+    height: 14px;
+    background-color: var(--coolor-old-silver);
+    border: 1px solid var(--coolor-floral-white);
+    
+}
