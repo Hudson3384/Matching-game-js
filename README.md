@@ -1,25 +1,38 @@
-# Curso de JS para React usando Vite
-<img align="middle" height="200" src="https://raw.githubusercontent.com/hudson3384/hudson3384/main/javascript.png">
-
-#### Curso realizado por [Marco Bruno](https://github.com/marcobrunodev), instrutor da [Alura](), está sendo abordado ferramentas/frameworks usados no dia-a-dia com react e o uso da modularização de componentes utilizando o Vite
-
-***
-
-## Tecnologias Utilizadas
+# <div align="center"> Matching Game - Javascript vanilla modules  </div>
 
 
-<img align="left" height="20" src="https://raw.githubusercontent.com/hudson3384/hudson3384/main/html.png"> 
+<h3>Desktop</h3>
+<a href="https://hudson3384-matchinggame.vercel.app/">
+<img src="./img1.png" /></a>
 
-<img align="left" height="20" src="https://raw.githubusercontent.com/hudson3384/hudson3384/main/css.png">
+<h3>Mobile</h3>
+<a href="https://hudson3384-matchinggame.vercel.app/">
+<img src="./img2.png" /></a>
 
-<img align="left" height="20" src="https://raw.githubusercontent.com/hudson3384/hudson3384/main/javascript.png"> 
 
-<br>
+<p align="center">A Responsive Matching Game made with HTML, CSS and JS modules.</p>
 
-#### Foram aplicados conhecimentos de HTML, CSS e principalmente Javascript que foi o foco do curso.
+## 🛠️ Technologies
 
-##### Nesse curso é revisado na prática todo o conceito de modularização, componentes, APIs, funções assincronas e demais itens essenciais para iniciar com o framework React
-## Autores
+<ul>
+  <li><a href="https://vitejs.dev/">Vite</a></li>
+</ul>
 
- [<img src="https://avatars.githubusercontent.com/u/102826996?v=4" width=115><br><sub>Hudson Arruda Ribeiro</sub>](https://github.com/hudson3384) 
+## ⚙️ Requirements
 
+<ul>
+  <li><a href="https://git-scm.com/">Git</a></li>
+  <li><a href="https://nodejs.org/en/">Node.js</a></li>
+  <li><a href="https://www.npmjs.com/">NPM</a></li>
+</ul>
+
+## 🚀 Installation
+
+```
+$ git clone https://github.com/Hudson3384/Matching-game-js.git
+
+```
+
+## Author
+
+ [<img src="https://avatars.githubusercontent.com/u/102826996?v=4" width=115><br><sub>Hudson Arruda Ribeiro</sub>](https://github.com/hudson3384)
